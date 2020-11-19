@@ -8,25 +8,25 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\TEMP\\.nuget\\packages\\": {},
+    "C:\\Users\\opilane\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\TEMP\\source\\repos\\ClearFolder\\CreateDirectory\\CreateDirectory.csproj",
+      "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\ClearFolder\\CreateDirectory\\CreateDirectory.csproj",
       "projectName": "CreateDirectory",
-      "projectPath": "C:\\Users\\TEMP\\source\\repos\\ClearFolder\\CreateDirectory\\CreateDirectory.csproj",
-      "packagesPath": "C:\\Users\\TEMP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\TEMP\\source\\repos\\ClearFolder\\CreateDirectory\\obj\\",
+      "projectPath": "C:\\Users\\opilane\\source\\repos\\ClearFolder\\CreateDirectory\\CreateDirectory.csproj",
+      "packagesPath": "C:\\Users\\opilane\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\opilane\\source\\repos\\ClearFolder\\CreateDirectory\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\TEMP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\opilane\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
